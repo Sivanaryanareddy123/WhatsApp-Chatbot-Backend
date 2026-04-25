@@ -48,9 +48,8 @@ Tested using Postman.
 
 ##  Run Project
 
-```bash
-mvn spring-boot:run
-```
+* Using Spring Tool Suite
+* Right-click project → Run As → Spring Boot App
 
 ##  Output
 
